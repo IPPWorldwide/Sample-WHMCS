@@ -1,0 +1,28 @@
+
+#ippgateway_form {
+    position: 	fixed;
+    height:		100%;
+    width:		100%;
+    top:		0;
+    left:		0;
+    z-index:    9999;
+}
+.payment_background {
+    position: absolute;
+    height:		100%;
+    width:		100%;
+    background:	#FFF;
+    opacity: 	0.5;
+    z-index: 	990;
+}
+.paymentWidgets {
+    z-index:	999;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 10px black solid;
+    border-radius: 25px;
+    padding: 25px;
+    background: #FFF;
+}

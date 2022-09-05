@@ -1,0 +1,17 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "ippgateway",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "IPPGateway",
+    "tagline": "Accept VISA and MasterCard through WHMCS."
+  },
+  "authors": [
+    {
+      "name": "IPP Europe",
+      "homepage": "https:\/\/www.ippeurope.com\/"
+    }
+  ]
+}
